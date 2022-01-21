@@ -1,3 +1,4 @@
+
 proxies:
 - {"name":"Relay_🇦🇺AU-🇨🇦CA_861","server":"1.0.0.1","type":"vmess","country":"🇦🇺AU","port":80,"uuid":"0d02be86-0a21-4c56-a363-1c8c09074466","alterId":64,"cipher":"auto","network":"ws","ws-path":"/sshstores","servername":"v2raysg-8.sshstores.vip","ws-headers":{"HOST":"v2raysg-8.sshstores.vip"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"Relay_🇨🇦CA-🇨🇦CA_1552","server":"142.44.135.104","type":"ss","country":"🇨🇦CA","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
@@ -142,3 +143,8 @@ proxies:
 - {"name":"Relay_🇺🇸US-🇺🇸US_17247","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
 - {"name":"Relay_🇺🇸US-🇺🇸US_17248","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
 - {"name":"Relay_🇺🇸US-🇺🇸US_17249","server":"usa-server-02.selfupay.com","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+cc
+cc
+dev
+dev
+stash
